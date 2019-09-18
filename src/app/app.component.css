@@ -1,0 +1,54 @@
+.example-container {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: relative;
+}
+.example-button-row button,
+.example-button-row a {
+  margin-right: 8px;
+}
+.question{
+  line-height: 20px;
+  color:black;
+  font-size:17px;
+  margin-top: 10px;
+}
+.button{
+    display: block;
+    margin: 5px;
+  margin-left: 2%;
+  }
+  .group{
+font-size: 15px;
+  }
+  .category{
+    color:black;
+    font-size: 20px;
+    padding-left: 12%;
+  }
+  .Difficulty{
+    color:black;
+    font-size: 20px;
+    padding-left: 12%;
+  }
+  .Type{
+    color:black;
+    font-size: 20px;
+    padding-left: 12%;
+  }
+  .content{
+  height: 50%;
+  }
+  .background{
+    padding: 20px;
+  }
+  .example-toolbar{
+justify-content: center;
+text-align: center;
+  }
+  .jumbotron{
+    margin-top: 4%;
+  }
+
